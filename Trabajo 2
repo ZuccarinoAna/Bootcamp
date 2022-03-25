@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<head>
+    <title>trabajo 2 </title>
+</head>
+<body>
+    <script> 
+    
+        var CantidadDeVentanasEnMiCasa = 10;
+        console.log(CantidadDeVentanasEnMiCasa)
+
+        var SoyHumano = true;
+        console.log(SoyHumano)
+
+        var MiGustoDePizzaPreferido = " Napolitana";
+        console.log(MiGustoDePizzaPreferido)
+
+        var unicaVariable = false
+        console.log(unicaVariable)
+
+        unicaVariable = 0
+        console.log(unicaVariable)
+        
+        unicaVariable = "minioms"
+        console.log(unicaVariable)
+
+</script>
+</body>
+</html>
